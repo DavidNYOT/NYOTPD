@@ -1,0 +1,22 @@
+/*Header*/
+
+header {
+    height: 500px;
+    width: 100%;
+    background-image: url("Appa.jpg");
+    background-size: cover;
+    /*center everything*/
+    text-align: center;
+}
+
+header h1 {
+    font-size: 80px;
+    color: #b942f4;
+    padding: 40px
+}
+
+header p {
+    font-style: italic;
+    font-size: medium;
+    color: #0c050f;
+}
