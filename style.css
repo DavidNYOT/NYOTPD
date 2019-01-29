@@ -1,22 +1,37 @@
+/*Navbar*/
+.nav-link{
+    opacity: 07;
+}
+.nav-link:hover{
+    opacity:1;
+    background-color: #eee !important
+}
 /*Header*/
 
 header {
-    height: 500px;
+    height: 700px;
     width: 100%;
-    background-image: url("Appa.jpg");
+    background-image: url("Four Elements.jpg");
     background-size: cover;
     /*center everything*/
     text-align: center;
+    font-family: 'Romanesco';
+    
 }
 
 header h1 {
     font-size: 80px;
-    color: #b942f4;
+    color: white;
     padding: 40px
 }
 
 header p {
     font-style: italic;
+    margin: 40px;
     font-size: medium;
-    color: #0c050f;
+    color: white;
+}
+/*Services*/
+.reasons {
+    text-align: center;
 }
