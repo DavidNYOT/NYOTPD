@@ -18,6 +18,16 @@ header {
     font-family: 'Romanesco';
     
 }
+header i{
+    font-size: 30px;
+    padding:25px 20px;
+    color:#7289DA;
+    /*background-color:#7289DA;*/
+}
+header i{
+    font-size: 30px;
+    padding:25px 20px;
+}
 
 header h1 {
     font-size: 80px;
@@ -32,6 +42,17 @@ header p {
     color: white;
 }
 /*Services*/
-.reasons {
-    text-align: center;
+.seasons i{
+    font-size: 30px;
+    padding:25px 20px;
+    color: #734523; 
+    background-color:#e1a95f;
+    width: 80px;
+    height:80px;
+    border-radius: 50%
+}
+.seasons span{
+    width: 200px;
+    display: inline-block
+    
 }
